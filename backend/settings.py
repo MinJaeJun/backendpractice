@@ -171,5 +171,3 @@ JWT_AUTH = {
 }
 
 DEFAULT_AUTO_FIELD='django.db.models.AutoField'
-
-#git commit test
